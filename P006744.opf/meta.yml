@@ -4,4 +4,49 @@ source_metadata:
   id: bdr:W8LS20236
   title: སྐོམ་སེལ་བདུད་རྩིའི་ཆུ་རྒྱུན། དེབ་དང་པོ་ནས་དགུ་པ།
   author: ''
-  volumes: {}
+  volumes:
+    ceaeabdc2de94e7eb39b2f6a2e561ead:
+      image_group_id: I8LS20787
+      title: ''
+      volume_number: 1
+      total_pages: 73
+    20e9ca98989b4ef490d5031f039949ac:
+      image_group_id: I8LS20788
+      title: ''
+      volume_number: 2
+      total_pages: 69
+    ddbf6b3c849e41f5b0f67b958ee0cbd5:
+      image_group_id: I8LS20789
+      title: ''
+      volume_number: 3
+      total_pages: 85
+    05f08a8cc721474880ab48f5c5f6d3b1:
+      image_group_id: I8LS20790
+      title: ''
+      volume_number: 4
+      total_pages: 113
+    92297afa48554b289064caea4ab27dc0:
+      image_group_id: I8LS20791
+      title: ''
+      volume_number: 5
+      total_pages: 129
+    796c64ed6d6546c8b74144dc311a0d38:
+      image_group_id: I8LS20792
+      title: ''
+      volume_number: 6
+      total_pages: 153
+    74f699182576438d80f0941c6dd282a2:
+      image_group_id: I8LS20793
+      title: ''
+      volume_number: 7
+      total_pages: 157
+    6b9fcd5d255e40aa9db694ebc8418b1a:
+      image_group_id: I8LS20794
+      title: ''
+      volume_number: 8
+      total_pages: 185
+    b1e443b535a44cd7a5fcd5146b794cb5:
+      image_group_id: I8LS20795
+      title: ''
+      volume_number: 9
+      total_pages: 229
